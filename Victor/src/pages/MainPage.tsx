@@ -9,10 +9,10 @@ function MainPage(){
             <Navbar />
 
             <div className="hero-content">
-                <h2>Hi, i'm victor</h2>
+                <h2>Victor | Web Developer</h2>
 
                 <p>
-                    Building responsive landingpages and web applications.
+                    I create responsive landingpages, websites and web applications with React, TypeScript, and Express.
                 </p>
             </div>
         </header>
@@ -34,11 +34,11 @@ function MainPage(){
             <h2>Skills</h2>
             <ul className="skills-list">
                 <li>
-                    Html & css
+                    HTML & cSS
                 </li>
 
                 <li>
-                    javascript & typescript
+                    JavaScript & TypeScript
                 </li>
 
                 <li>
@@ -48,11 +48,20 @@ function MainPage(){
                 <li>
                     Express.js
                 </li>
+
+                <li>
+                    Vercel
+                </li>
+
+            {/* <li>
+                    Paystack
+                </li> */}
             </ul>
         </section>
 
         <section id="projects" className="section">
-            <h2>Featured Projects</h2>
+            <h2>View My Works</h2>
+
 
             <div className="projects-grid">
                 <div className="project-card">
@@ -92,7 +101,7 @@ function MainPage(){
         <section id="contact" className="section">
             <h2>Contact</h2>
             <div className="contact-content">
-                <p>Interested in working together or have a project in mind?.</p>
+                <p>Have a project in mind?.</p>
                 <p>Feel free to reach out.</p>
                 
                 <div className="contact-links">

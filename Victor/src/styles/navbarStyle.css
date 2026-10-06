@@ -4,6 +4,7 @@
     color: #F0F6FC;
     align-items: center;
     justify-content: space-between;
+    position: fixed;
     position: sticky;
     padding: 1rem 2rem;
     top: 0;
