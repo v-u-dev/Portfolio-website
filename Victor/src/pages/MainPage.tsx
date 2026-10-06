@@ -12,7 +12,7 @@ function MainPage(){
                 <h2>Victor | Web Developer</h2>
 
                 <p>
-                    I create responsive landingpages, websites and web applications with React, TypeScript, and Express.
+                    I create responsive landingpages, websites and web applications with React, CSS, TypeScript, and Express.
                 </p>
             </div>
         </header>
