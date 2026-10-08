@@ -34,7 +34,7 @@ function MainPage(){
             <h2>Skills</h2>
             <ul className="skills-list">
                 <li>
-                    HTML & cSS
+                    HTML & CSS
                 </li>
 
                 <li>
@@ -64,14 +64,16 @@ function MainPage(){
 
 
             <div className="projects-grid">
+                <a href="https://wine-palace.vercel.app/">
                 <div className="project-card">
-                    <p>project a</p>
+                    <p>Wine Palace</p>
                 </div>
+                </a>
                 <div className="project-card">
                     <p>project b</p>
                 </div>
                 <div className="project-card">
-                    <p>project c</p>
+                    <p>Coming Soon</p>
                 </div>
             </div>
         </section>
@@ -101,7 +103,7 @@ function MainPage(){
         <section id="contact" className="section">
             <h2>Contact</h2>
             <div className="contact-content">
-                <p>Have a project in mind?.</p>
+                <p>Have a project in mind?</p>
                 <p>Feel free to reach out.</p>
                 
                 <div className="contact-links">
